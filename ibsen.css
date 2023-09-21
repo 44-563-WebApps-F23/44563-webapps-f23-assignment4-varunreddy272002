@@ -53,14 +53,14 @@ tr:nth-child(even) {
     background-color: aliceblue;
     text-shadow: 2px 2px red;
     filter: blur(.6px);
-    border: 20px;
+    border: 2px solid blueviolet;
 }
 .NURSE:hover{
     color: red;
     background-color: rgb(232, 222, 222);
     text-shadow: 2px 2px 4px #180202;
     filter: blur(.6px);
-border: 20px;
+border: 2px solid lightcoral;
 }
 
 ul {
